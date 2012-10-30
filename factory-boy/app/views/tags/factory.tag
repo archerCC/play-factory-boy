@@ -1,6 +1,6 @@
 *{
  *  Call FactoryBoy at Selenium Test.
- *  id (optional) identity the variable of factoryboy created object.
+ *  var (optional) identity the variable of factoryboy created object.
  *  type (required) Model type to create.
  *  name (optional) select the factory method.
 }*
